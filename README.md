@@ -15,10 +15,15 @@ consultant to the software industry since 2004.
 
 ## Research software
 
-| Project | What it does | Publication |
+| Project | What it does | Publication or use |
 |---|---|---|
 | [**CurricuMap**](https://github.com/tkucukdeniz2/curricumap) | Turns registrar transcript exports into auditable student-by-competency matrices. Declarative YAML taxonomies, rule-level provenance for every course, reliability audit (Cronbach's α). CLI, tests, CI. | *SoftwareX*, accepted 2026 · [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22140689.svg)](https://doi.org/10.5281/zenodo.22140689) |
 | [**ElectroML**](https://github.com/tkucukdeniz2/ElectroML) | Web platform for analyte concentration prediction from cyclic and differential pulse voltammetry: signal preprocessing, 47 engineered features, 14 regressors with Optuna tuning, leakage-safe cross-validation. | *SoftwareX* 34 (2026) 102640 · [doi:10.1016/j.softx.2026.102640](https://doi.org/10.1016/j.softx.2026.102640) |
+| [**University course timetabling**](https://github.com/tkucukdeniz2/university-course-timetabling) | CP-SAT model that schedules a whole department: classrooms, a shared lab and faculty-granted amphitheatres, instructor availability, elective groups with solver-chosen pairing and a guaranteed free day for every cohort. Independent constraint checker, Excel output, anonymised example instance, tests, CI. | Developed for the department's 2026–27 timetable |
+
+## Other projects
+
+- [**Dubber**](https://github.com/tkucukdeniz2/dubber): dubs English YouTube videos into Turkish on a Mac. A Chrome extension reads the captions; a local server translates whole sentences with a local LLM (llama.cpp), speaks them in a designed voice (VoxCPM2) and keeps the voice in step with the video. 1,100+ tests, CI.
 
 ## Research focus
 
