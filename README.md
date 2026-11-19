@@ -53,6 +53,11 @@ Python · pandas · NumPy · scikit-learn · XGBoost · LightGBM · Optuna · Fl
 Operations research, heuristic optimization and machine learning in the Industrial Engineering
 programme; supervisor of 20+ MSc and PhD theses.
 
+The department I head publishes its students' capstone projects as open source at
+[**github.com/iuc-ie**](https://github.com/iuc-ie): 18 industry-oriented projects from the 2026 cohort
+in demand forecasting, routing, cutting-stock and timetabling optimization, anomaly detection and
+customer analytics, built on a shared [project template](https://github.com/iuc-ie/capstone-template).
+
 ## Work with me
 
 I am open to collaboration on optimization and machine-learning problems in logistics,
