@@ -1,6 +1,6 @@
 # Tarık Küçükdeniz
 
-**Professor of Industrial Engineering · İstanbul University-Cerrahpaşa**
+**Professor of Industrial Engineering · İstanbul University-Cerrahpaşa**\
 Operations research · metaheuristic optimization · machine learning · open research software
 
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--6670--1809-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-6670-1809)
